@@ -1,0 +1,30 @@
+body {
+    background-image: url(img/fondo.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  iframe {
+    display: block;
+    margin: 0 auto;
+  }  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    padding: 20px;
+  }
+  
+  .logo {
+    width: 200px;
+  }
+  
+  .body {
+    padding: 20px;
+  }
+  
+  .footer {
+    padding: 20px;
+    text-align: center;
+  }  
